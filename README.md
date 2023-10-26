@@ -1,5 +1,10 @@
-<h1 align="center">Всем привет, я Михаил!</h1>
-<h3 align="center">QA Automation Engineer (Java)</h3>
+# Bio
+
++ **Firstname**: *Mikhail*
++ **Lastname**: *Klimov*
++ **Age**: *30 y.o.*
++ **Working experience**: *7+ years*
++ **Current job position**: *QA Automation Engineer (Java)*
 
 - 🚹 Занимаюсь автоматизацией на **Java**      
 - 💼 Со мной можно связаться 
