@@ -10,8 +10,7 @@
  **Contact me: @Michail_Klimov** <a href="https://t.me/Michail_Klimov" target="blank"><img align="center" src="img/telegram.svg" alt="Michail_Klimov" height="24" width="24" /></a>
 
 ### <img src="img/program.svg" alt="profile" width="48"/> Technologies & Tools
-<img src="img/logo/Java.svg" alt="Java" width="36"/>
-<img src="img/logo/JUnit5.svg" alt="JUnit5" width="32"/>
+<img src="img/logo/Java.svg" alt="Java" width="36"/><img src="img/logo/JUnit5.svg" alt="JUnit5" width="32"/>
 <img src="img/logo/Rest-Assured.svg" alt="Rest" width="32"/>
 <img src="img/logo/Selenide.svg" alt="Selenide" width="32"/>
 <img src="img/logo/Allure_Report.svg" alt="Allure_Report" width="32"/>
