@@ -1,4 +1,4 @@
-# <img src="img/profile.svg" alt="profile" width="64"/>  Bio
+# <img src="img/profile2.svg" alt="profile" width="64"/>  Bio
 
 
 + **Firstname**: *Mikhail*
@@ -9,7 +9,7 @@
 
  **Contact me: @Michail_Klimov** <a href="https://t.me/Michail_Klimov" target="blank"><img align="center" src="img/telegram.svg" alt="Michail_Klimov" height="24" width="24" /></a>
 
-### <img src="img/program.svg" alt="profile" width="48"/> Technologies & Tools
+### <img src="img/program3.svg" alt="profile" width="48"/> Technologies & Tools
 <img src="img/logo/Java.svg" alt="Java" width="36"/><img src="img/logo/JUnit5.svg" alt="JUnit5" width="32"/>
 <img src="img/logo/Rest-Assured.svg" alt="Rest" width="32"/>
 <img src="img/logo/Selenide.svg" alt="Selenide" width="32"/>
@@ -22,7 +22,7 @@
 
 
 
-### <img src="img/project.svg" alt="proprojectfile" width="48"/> Projects
+### <img src="img/project5.svg" alt="proprojectfile" width="48"/> Projects
 **This is a list of projects created by me**
 <hr>
 
