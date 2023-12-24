@@ -26,5 +26,6 @@
 **This is a list of projects created by me**
 <hr>
 
++ [Rococo](https://github.com/klimovqa/rococo) - *Rococo project*
 + [Geo Service](https://github.com/klimovqa/geo) - *Simple example REST-service based on Spring framework*
 + [Java](https://github.com/klimovqa/java) - *Sandbox for working with java*
