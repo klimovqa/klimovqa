@@ -3,7 +3,7 @@
 
 + **Firstname**: *Mikhail*
 + **Lastname**: *Klimov*
-+ **Age**: *30 y.o.*
++ **Age**: *31 y.o.*
 + **Working experience**: *7+ years*
 + **Position**: *QA Automation Engineer (Java)*
 
