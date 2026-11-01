@@ -3,8 +3,8 @@
 
 + **Firstname**: *Mikhail*
 + **Lastname**: *Klimov*
-+ **Age**: *31 y.o.*
-+ **Working experience**: *7+ years*
++ **Age**: *33 y.o.*
++ **Working experience**: *10+ years*
 + **Position**: *QA Automation Engineer (Java)*
 
  **Contact me: @Michail_Klimov** <a href="https://t.me/Michail_Klimov" target="blank"><img align="center" src="img/telegram.svg" alt="Michail_Klimov" height="24" width="24" /></a>
